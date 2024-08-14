@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, Akshay here</h1>
+<p align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&background=000000&center=true&vCenter=true&width=435&lines=Hi+there%2C+Akshay+here!" alt="Typing SVG" /></a></p>
+
 <h3 align="center">Computer Science student passionate about Web Dev, CyberSec and ML</h3>
 
 - 📫 How to reach me **akshay.as2003@gmail.com**
